@@ -124,14 +124,3 @@
 	letter-spacing: 0.21em;
 	color: #fff;
 }
-
-.arrow-down {
-	display: block;
-	width: 32px;
-	padding: 10px;
-	margin: 0 auto;
-}
-
-.arrow-down:hover {
-	transform: translateY(7px);
-}
