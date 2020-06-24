@@ -309,6 +309,10 @@
 		width: 520px;
 	}
 
+	.job {
+		width: 224px;
+	}
+
 	.job__paragraph {
 		font-size: 19px;
 	}
