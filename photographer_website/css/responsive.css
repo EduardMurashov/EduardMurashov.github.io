@@ -465,7 +465,7 @@
 	.number i {
 		font-size: 13px;
 		margin-top: 3px;
-    	margin-right: 3px;
+    		margin-right: 3px;
 	}
 
 	.offer__main {
@@ -478,10 +478,6 @@
 
 	.offer__text {
 	    font-size: 18px;
-	}
-
-	.arrow-down img {
-		width: 26px;
 	}
 
 	.jobs {
@@ -503,7 +499,7 @@
 
 	.me-foto img {
 		width: 85%;
-    	margin: 0 auto;
+    		margin: 0 auto;
 	}
 
 	.me-cont {
