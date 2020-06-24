@@ -485,6 +485,10 @@
 		flex-direction: column;
 	}
 
+	.job {
+		width: 275px;
+	}
+
 	.job-left {
 		margin-bottom: 80px;
 	}
