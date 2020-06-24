@@ -309,6 +309,14 @@
 		width: 520px;
 	}
 
+	.doing__title {
+		margin-bottom: 60px;
+	}
+
+	.jobs__g-left {
+		margin-bottom: 60px;
+	}
+
 	.job {
 		width: 224px;
 	}
@@ -494,11 +502,11 @@
 	}
 
 	.job-left {
-		margin-bottom: 80px;
+		margin-bottom: 60px;
 	}
 
 	.job-right {
-		margin-top: 80px;
+		margin-top: 60px;
 	}
 
 	.me-foto img {
