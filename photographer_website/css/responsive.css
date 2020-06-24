@@ -459,7 +459,7 @@
 	}
 
 	.top-header {
-		margin-bottom: 100px;
+		margin-bottom: 60px;
 	}
 
 	.top-header:after {
@@ -467,13 +467,7 @@
 	}
 
 	.number {
-		font-size: 17px;
-	}
-
-	.number i {
-		font-size: 13px;
-		margin-top: 3px;
-    		margin-right: 3px;
+		display: none;
 	}
 
 	.offer__main {
@@ -482,10 +476,12 @@
 
 	.offer__title {
 		font-size: 48px;
+		margin-bottom: 45px;
 	}
 
 	.offer__text {
-	    font-size: 18px;
+	        font-size: 18px;
+	        margin-bottom: 70px;
 	}
 
 	.jobs {
