@@ -309,12 +309,8 @@
 		width: 520px;
 	}
 
-	.offer__slogan {
-		font-size: 26px;
-	}
-
-	.job {
-		width: 224px;
+	.job__paragraph {
+		font-size: 19px;
 	}
 
 	.me {
